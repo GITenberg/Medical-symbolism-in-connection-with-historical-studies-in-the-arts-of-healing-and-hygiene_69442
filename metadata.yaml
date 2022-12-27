@@ -1,0 +1,33 @@
+_repo: Medical-symbolism-in-connection-with-historical-studies-in-the-arts-of-healing-and-hygiene_69442
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Power, Edward S.
+    gutenberg_agent_id: '55266'
+    url: http://www.gutenberg.org/2009/agents/55266
+creator:
+  author:
+    agent_name: Sozinskey, Thomas S.
+    gutenberg_agent_id: '55265'
+    url: http://www.gutenberg.org/2009/agents/55265
+description: ''
+gutenberg_issued: '2022-11-28'
+identifiers:
+  gutenberg: '69442'
+language: en
+pgterms:marc904: https://archive.org/details/39002086310605.med.yale.edu/mode/2up
+pgterms:marc905: 20200909072132sozinskey
+pgterms:marc906: '1891'
+pgterms:marc907: US
+production_note: Emmanuel Ackerman, Evander Cobban and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: 'United States: F. A. Davis,1891.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Medical symbolism in connection with historical studies in the arts of healing
+  and hygiene
+url: http://www.gutenberg.org/ebooks/69442
