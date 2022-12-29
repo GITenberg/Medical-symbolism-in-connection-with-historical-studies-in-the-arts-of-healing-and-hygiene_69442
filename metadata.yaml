@@ -5,12 +5,17 @@ contributor:
     agent_name: Power, Edward S.
     gutenberg_agent_id: '55266'
     url: http://www.gutenberg.org/2009/agents/55266
+covers:
+- cover_type: archival
+  image_path: 69442-h/images/cover.jpg
 creator:
   author:
     agent_name: Sozinskey, Thomas S.
     gutenberg_agent_id: '55265'
     url: http://www.gutenberg.org/2009/agents/55265
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69442#Medical-symbolism-in-connection-with-historical-studies-in-the-arts-of-healing-and-hygiene
 gutenberg_issued: '2022-11-28'
 identifiers:
   gutenberg: '69442'
